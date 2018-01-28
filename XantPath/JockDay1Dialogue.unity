@@ -169,10 +169,10 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 14
+    m_FontSize: 40
     m_FontStyle: 0
     m_BestFit: 0
-    m_MinSize: 10
+    m_MinSize: 0
     m_MaxSize: 40
     m_Alignment: 4
     m_AlignByGeometry: 0
@@ -251,7 +251,7 @@ MonoBehaviour:
     - Zeica - Jerri you are the only one who cares.
     - '*Jerri goes offline*'
     - "Xant - Hahaha. Guess Jerri couldn\u2019t handle the truth!"
-  jumpToTree: 7
+  jumpToTree: 8
   jockAffection: 0
   nerdAffection: 0
   prepAffection: 0
@@ -428,7 +428,7 @@ GameObject:
   - component: {fileID: 123407945}
   - component: {fileID: 123407944}
   m_Layer: 5
-  m_Name: 3_GoodGC
+  m_Name: 4_GoodGC
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -491,7 +491,7 @@ MonoBehaviour:
     - "Xant - Just saying\u2026 We dunno each other well.\r We might not be who we
       appear to be.\r"
     - "Renka - Okay let\u2019s not go too far lololol"
-  jumpToTree: 6
+  jumpToTree: 7
   jockAffection: 0
   nerdAffection: 0
   prepAffection: 0
@@ -638,7 +638,7 @@ MonoBehaviour:
     - "Zeica - we\u2019re not sheeple\u2026"
     - "Renka - Yeah! Why would we believe that!\r"
     - Jerri - You just cannot see the truth.
-  jumpToTree: 5
+  jumpToTree: 6
   jockAffection: 0
   nerdAffection: 0
   prepAffection: 0
@@ -792,7 +792,7 @@ MonoBehaviour:
     - Zeica - Jerri you are the only one who cares.
     - '*Jerri goes offline*'
     - "Xant - Hahaha. Guess Jerri couldn\u2019t handle the truth!"
-  jumpToTree: 7
+  jumpToTree: 8
   jockAffection: 0
   nerdAffection: 0
   prepAffection: 0
@@ -912,6 +912,7 @@ MonoBehaviour:
   nameText: {fileID: 1108260588}
   DialogueText: {fileID: 90538661}
   choices:
+  - {fileID: 933931864}
   - {fileID: 1256266220}
   - {fileID: 1628088694}
   - {fileID: 566412047}
@@ -1222,7 +1223,7 @@ MonoBehaviour:
     - '*Renka goes Do Not Disturb*'
     - "(This group is fun, for sure.  I\u2019m lucky to have gotten in contact with
       them. And that Xant guy seems especially interesting\u2026)"
-  jumpToTree: 8
+  jumpToTree: 9
   jockAffection: 0
   nerdAffection: 0
   prepAffection: 0
@@ -1570,7 +1571,7 @@ GameObject:
   - component: {fileID: 411047901}
   - component: {fileID: 411047900}
   m_Layer: 5
-  m_Name: 8_EndDayMonologue
+  m_Name: 9_EndDayMonologue
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1618,7 +1619,7 @@ MonoBehaviour:
       to talk to him.)"
     - (Screw it, I will!  Nobody takes those seriously.)
     - "(At least I\u2019m in range to video chat with him.)"
-  jumpToTree: 9
+  jumpToTree: 10
   jockAffection: 0
   nerdAffection: 0
   prepAffection: 0
@@ -1794,7 +1795,7 @@ GameObject:
   - component: {fileID: 566412050}
   - component: {fileID: 566412049}
   m_Layer: 5
-  m_Name: 2_BadGC
+  m_Name: 3_BadGC
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1844,7 +1845,7 @@ MonoBehaviour:
     - "Zeica - they\u2019d probably choose something else\u2026"
     - "Renka - (-\uFF61-;"
     - "Zeica - there\u2019s the emoticons again."
-  jumpToTree: 4
+  jumpToTree: 5
   jockAffection: 0
   nerdAffection: 0
   prepAffection: 0
@@ -2374,7 +2375,7 @@ GameObject:
   m_Component:
   - component: {fileID: 774821938}
   m_Layer: 0
-  m_Name: 5_BGCChoices
+  m_Name: 6_BGCChoices
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2542,7 +2543,7 @@ MonoBehaviour:
     - Q - ...
     - Xant - Whatever.
     - "Xant - You\u2019re from Earth right?"
-  jumpToTree: 1
+  jumpToTree: 2
   jockAffection: 0
   nerdAffection: 0
   prepAffection: 0
@@ -2618,7 +2619,7 @@ MonoBehaviour:
     - "Renka - Same tho\u2026  Hope everything goes well [MC]!!!\U0001F497 <3"
     - '*Renka goes Do not Disturb*'
     - "(Seems like there\u2019s something more to this Xant situation than I thought.)"
-  jumpToTree: 8
+  jumpToTree: 9
   jockAffection: 0
   nerdAffection: 0
   prepAffection: 0
@@ -2852,7 +2853,7 @@ MonoBehaviour:
     - "Renka - Hope your ship starts \rworking well!!!\r"
     - '*Renka goes Do not Disturb*'
     - "(It seems that whatever\u2019s going on with Xant is much deeper than I thought.)"
-  jumpToTree: 8
+  jumpToTree: 9
   jockAffection: 0
   nerdAffection: 0
   prepAffection: 0
@@ -3122,7 +3123,7 @@ MonoBehaviour:
     - Xant - I noticed
     - "Xant - My system\u2019s been in for countless eons.  Humans must not be very
       intelligent to have taken so long."
-  jumpToTree: 1
+  jumpToTree: 2
   jockAffection: 0
   nerdAffection: 0
   prepAffection: 0
@@ -3237,7 +3238,7 @@ RectTransform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 933931864}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -3247,8 +3248,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 180}
-  m_SizeDelta: {x: 160, y: 30}
+  m_AnchoredPosition: {x: -10, y: -185}
+  m_SizeDelta: {x: 430, y: 80}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &933931866
 MonoBehaviour:
@@ -3265,7 +3266,7 @@ MonoBehaviour:
     name: Xant
     sentences:
     - Xant - Sup Q
-  jumpToTree: 0
+  jumpToTree: 1
   jockAffection: 0
   nerdAffection: 0
   prepAffection: 0
@@ -3643,7 +3644,7 @@ MonoBehaviour:
     - '*Zeica goes offline*'
     - "(This group is fun, for sure.  I\u2019m lucky to have gotten in contact with
       them. And that Xant guy seems especially interesting\u2026)"
-  jumpToTree: 8
+  jumpToTree: 9
   jockAffection: 0
   nerdAffection: 0
   prepAffection: 0
@@ -3791,7 +3792,7 @@ MonoBehaviour:
     - Q - Even in the group chat you were pretty mean to the others.
     - '*Xant goes offline*'
     - (What an asshole.  Why are they friends with them?)
-  jumpToTree: 2
+  jumpToTree: 3
   jockAffection: 0
   nerdAffection: 0
   prepAffection: 0
@@ -4098,7 +4099,7 @@ MonoBehaviour:
     - Xant - I noticed
     - "Xant - My system\u2019s been in for countless eons.  Humans must not be very
       intelligent to have taken so long."
-  jumpToTree: 1
+  jumpToTree: 2
   jockAffection: 0
   nerdAffection: 0
   prepAffection: 0
@@ -4164,7 +4165,7 @@ MonoBehaviour:
     - '*Xant read the message*'
     - '*Xant is now on Do Not Disturb*'
     - "(Well, that was rude of them...\r)\n"
-  jumpToTree: 2
+  jumpToTree: 3
   jockAffection: 0
   nerdAffection: 0
   prepAffection: 0
@@ -4411,7 +4412,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1145189889}
   m_Layer: 0
-  m_Name: 4_BGCChoices
+  m_Name: 5_BGCChoices
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4717,7 +4718,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1256266221}
   m_Layer: 0
-  m_Name: InitialChoices
+  m_Name: 1_InitialChoices
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4809,7 +4810,7 @@ MonoBehaviour:
     - "Zeica - that makes one of us\u2026"
     - Q - Can I ask you guys a question?
     - Renka - Sure fam!
-  jumpToTree: 5
+  jumpToTree: 6
   jockAffection: 0
   nerdAffection: 0
   prepAffection: 0
@@ -5229,7 +5230,7 @@ MonoBehaviour:
     - '*Renka goes Do not Disturb*'
     - "(This group is fun, for sure.  I\u2019m lucky to have gotten in contact with
       them. And that Xant guy seems especially interesting\u2026)"
-  jumpToTree: 8
+  jumpToTree: 9
   jockAffection: 0
   nerdAffection: 0
   prepAffection: 0
@@ -5531,7 +5532,7 @@ MonoBehaviour:
     - Zeica - Jerri you are the only one who cares.
     - '*Jerri goes offline*'
     - "Xant - Hahaha. Guess Jerri couldn\u2019t handle the truth!"
-  jumpToTree: 7
+  jumpToTree: 8
   jockAffection: 0
   nerdAffection: 0
   prepAffection: 0
@@ -5682,7 +5683,7 @@ MonoBehaviour:
     - '*You start receiving pings from the group chat*'
     - "Q - Brb.  Group chat\u2019s exploding."
     - "Xant - I should see what\u2019s going on there too..."
-  jumpToTree: 3
+  jumpToTree: 4
   jockAffection: 0
   nerdAffection: 0
   prepAffection: 0
@@ -5781,7 +5782,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1628088695}
   m_Layer: 0
-  m_Name: 1_Choices
+  m_Name: 2_Choices
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5812,7 +5813,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1701753743}
   m_Layer: 0
-  m_Name: 6_GGCChoices
+  m_Name: 7_GGCChoices
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6134,7 +6135,7 @@ MonoBehaviour:
     - "Renka - Same tho\u2026  Hope everything goes well [MC]!!!\U0001F497 <3"
     - '*Renka goes Do not Disturb*'
     - "(Seems like there\u2019s something more to this Xant situation than I thought.)"
-  jumpToTree: 8
+  jumpToTree: 9
   jockAffection: 0
   nerdAffection: 0
   prepAffection: 0
@@ -6355,7 +6356,7 @@ MonoBehaviour:
     - "Zeica - we\u2019re not sheeple\u2026"
     - "Renka - Yeah! Why would we believe that!\r"
     - Jerri - You just cannot see the truth.
-  jumpToTree: 5
+  jumpToTree: 6
   jockAffection: 0
   nerdAffection: 0
   prepAffection: 0
@@ -6639,7 +6640,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2091808012}
   m_Layer: 0
-  m_Name: 7_GGCChoices
+  m_Name: 8_GGCChoices
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
